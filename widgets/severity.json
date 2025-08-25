@@ -1,1 +1,1 @@
-[{"uid":"ed5d2ab907ddab14","name":"googleSearchTest()","time":{"start":1756127025875,"stop":1756127034600,"duration":8725},"status":"passed","severity":"normal"}]
+[{"uid":"2b75028a119c8cab","name":"googleSearchTest()","time":{"start":1756127181876,"stop":1756127185472,"duration":3596},"status":"passed","severity":"normal"},{"uid":"faddbf37bfd66289","name":"exampleDotComTest()","time":{"start":1756127185551,"stop":1756127186882,"duration":1331},"status":"passed","severity":"normal"}]
