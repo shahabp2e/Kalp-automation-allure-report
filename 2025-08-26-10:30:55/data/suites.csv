@@ -1,3 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","8638","googleSearchTest()","","Tue Aug 26 05:00:39 UTC 2025","passed","Tue Aug 26 05:00:47 UTC 2025","","SeleniumTest","SeleniumTest","googleSearchTest"
-"","3032","exampleDotComTest()","","Tue Aug 26 05:00:47 UTC 2025","passed","Tue Aug 26 05:00:50 UTC 2025","","SeleniumTest","SeleniumTest","exampleDotComTest"
