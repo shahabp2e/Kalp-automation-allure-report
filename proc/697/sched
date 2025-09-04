@@ -1,0 +1,30 @@
+card1-crtc2 (697, #threads: 1)
+-------------------------------------------------------------------
+se.exec_start                                :          2295.573368
+se.vruntime                                  :          2163.532654
+se.sum_exec_runtime                          :             0.010787
+se.nr_migrations                             :                    0
+nr_switches                                  :                    2
+nr_voluntary_switches                        :                    2
+nr_involuntary_switches                      :                    0
+se.load.weight                               :              1048576
+se.avg.load_sum                              :                46903
+se.avg.runnable_sum                          :             22703212
+se.avg.util_sum                              :             22703212
+se.avg.load_avg                              :                 1024
+se.avg.runnable_avg                          :                  484
+se.avg.util_avg                              :                  484
+se.avg.last_update_time                      :           2260923392
+se.avg.util_est                              :                  484
+uclamp.min                                   :                 1024
+uclamp.max                                   :                 1024
+effective uclamp.min                         :                 1024
+effective uclamp.max                         :                 1024
+policy                                       :                    1
+prio                                         :                   49
+clock-delta                                  :                   11
+numa_pages_migrated                          :                    0
+numa_preferred_nid                           :                   -1
+total_numa_faults                            :                    0
+current_node=0, numa_group_id=0
+numa_faults node=0 task_private=0 task_shared=0 group_private=0 group_shared=0

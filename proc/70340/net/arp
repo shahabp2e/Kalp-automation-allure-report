@@ -1,0 +1,7 @@
+IP address       HW type     Flags       HW address            Mask     Device
+172.25.70.5      0x1         0x2         7c:4d:8f:7c:2c:83     *        enp1s0
+172.25.70.10     0x1         0x2         34:9f:7b:d6:6e:e9     *        enp1s0
+172.25.70.17     0x1         0x2         3c:06:30:56:3e:32     *        enp1s0
+172.25.70.42     0x1         0x2         70:a6:cc:3d:fc:0c     *        enp1s0
+172.25.70.16     0x1         0x2         08:8e:90:98:2e:ed     *        enp1s0
+172.25.70.1      0x1         0x2         98:a2:c0:e9:72:73     *        enp1s0

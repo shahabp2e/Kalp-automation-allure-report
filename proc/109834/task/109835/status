@@ -1,0 +1,61 @@
+Name:	pool-spawner
+Umask:	0022
+State:	S (sleeping)
+Tgid:	109834
+Ngid:	0
+Pid:	109835
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	512
+Groups:	 
+NStgid:	109834
+NSpid:	109835
+NSpgid:	109834
+NSsid:	109834
+Kthread:	0
+VmPeak:	  314036 kB
+VmSize:	  313984 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	    7680 kB
+VmRSS:	    7680 kB
+RssAnon:	     480 kB
+RssFile:	    7200 kB
+RssShmem:	       0 kB
+VmData:	   34056 kB
+VmStk:	     132 kB
+VmExe:	      44 kB
+VmLib:	    8196 kB
+VmPTE:	     108 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	4
+SigQ:	1/62403
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000100004002
+CapInh:	0000000000000000
+CapPrm:	000001f3f5fcffff
+CapEff:	000001f3f5fcffff
+CapBnd:	000001f3f5fcffff
+CapAmb:	0000000000000000
+NoNewPrivs:	1
+Seccomp:	2
+Seccomp_filters:	29
+Speculation_Store_Bypass:	thread vulnerable
+SpeculationIndirectBranch:	conditional enabled
+Cpus_allowed:	fffff
+Cpus_allowed_list:	0-19
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+x86_Thread_features:	
+x86_Thread_features_locked:	

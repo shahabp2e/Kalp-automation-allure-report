@@ -1,0 +1,61 @@
+Name:	gdbus
+Umask:	0022
+State:	S (sleeping)
+Tgid:	1103
+Ngid:	0
+Pid:	1181
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	 
+NStgid:	1103
+NSpid:	1181
+NSpgid:	1103
+NSsid:	1103
+Kthread:	0
+VmPeak:	  549388 kB
+VmSize:	  484044 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   17208 kB
+VmRSS:	   17208 kB
+RssAnon:	    2080 kB
+RssFile:	   15128 kB
+RssShmem:	       0 kB
+VmData:	   51996 kB
+VmStk:	     132 kB
+VmExe:	    2496 kB
+VmLib:	   18024 kB
+VmPTE:	     160 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	4
+SigQ:	1/62403
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000100004a03
+CapInh:	0000000000000000
+CapPrm:	00000000200534e2
+CapEff:	00000000200534e2
+CapBnd:	00000000200534e2
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Seccomp_filters:	0
+Speculation_Store_Bypass:	thread vulnerable
+SpeculationIndirectBranch:	conditional enabled
+Cpus_allowed:	fffff
+Cpus_allowed_list:	0-19
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	37327
+nonvoluntary_ctxt_switches:	880
+x86_Thread_features:	
+x86_Thread_features_locked:	

@@ -1,0 +1,57 @@
+25 30 0:23 / /sys rw,nosuid,nodev,noexec,relatime shared:7 - sysfs sysfs rw
+26 30 0:24 / /proc rw,nosuid,nodev,noexec,relatime shared:13 - proc proc rw
+27 30 0:5 / /dev rw,nosuid,relatime shared:2 - devtmpfs udev rw,size=7987680k,nr_inodes=1996920,mode=755,inode64
+28 27 0:25 / /dev/pts rw,nosuid,noexec,relatime shared:3 - devpts devpts rw,gid=5,mode=620,ptmxmode=000
+29 30 0:26 / /run rw,nosuid,nodev,noexec,relatime shared:5 - tmpfs tmpfs rw,size=1605384k,mode=755,inode64
+30 1 259:2 / / rw,relatime shared:1 - ext4 /dev/nvme0n1p2 rw,errors=remount-ro
+31 25 0:6 / /sys/kernel/security rw,nosuid,nodev,noexec,relatime shared:8 - securityfs securityfs rw
+32 27 0:27 / /dev/shm rw,nosuid,nodev shared:4 - tmpfs tmpfs rw,inode64
+33 29 0:28 / /run/lock rw,nosuid,nodev,noexec,relatime shared:6 - tmpfs tmpfs rw,size=5120k,inode64
+34 25 0:29 / /sys/fs/cgroup rw,nosuid,nodev,noexec,relatime shared:9 - cgroup2 cgroup2 rw,nsdelegate,memory_recursiveprot
+35 25 0:30 / /sys/fs/pstore rw,nosuid,nodev,noexec,relatime shared:10 - pstore pstore rw
+36 25 0:31 / /sys/firmware/efi/efivars rw,nosuid,nodev,noexec,relatime shared:11 - efivarfs efivarfs rw
+37 25 0:32 / /sys/fs/bpf rw,nosuid,nodev,noexec,relatime shared:12 - bpf bpf rw,mode=700
+38 26 0:33 / /proc/sys/fs/binfmt_misc rw,relatime shared:14 - autofs systemd-1 rw,fd=32,pgrp=1,timeout=0,minproto=5,maxproto=5,direct,pipe_ino=9888
+39 25 0:7 / /sys/kernel/debug rw,nosuid,nodev,noexec,relatime shared:15 - debugfs debugfs rw
+40 27 0:20 / /dev/mqueue rw,nosuid,nodev,noexec,relatime shared:16 - mqueue mqueue rw
+41 27 0:34 / /dev/hugepages rw,nosuid,nodev,relatime shared:17 - hugetlbfs hugetlbfs rw,pagesize=2M
+42 25 0:12 / /sys/kernel/tracing rw,nosuid,nodev,noexec,relatime shared:18 - tracefs tracefs rw
+43 25 0:35 / /sys/fs/fuse/connections rw,nosuid,nodev,noexec,relatime shared:19 - fusectl fusectl rw
+44 25 0:21 / /sys/kernel/config rw,nosuid,nodev,noexec,relatime shared:20 - configfs configfs rw
+46 30 7:1 / /snap/bare/5 ro,nodev,relatime shared:30 - squashfs /dev/loop1 ro,errors=continue,threads=single
+48 30 7:0 / /snap/core20/1611 ro,nodev,relatime shared:46 - squashfs /dev/loop0 ro,errors=continue,threads=single
+52 30 7:2 / /snap/core20/2599 ro,nodev,relatime shared:50 - squashfs /dev/loop2 ro,errors=continue,threads=single
+60 30 7:7 / /snap/firmware-updater/167 ro,nodev,relatime shared:58 - squashfs /dev/loop7 ro,errors=continue,threads=single
+62 30 7:8 / /snap/gnome-42-2204/202 ro,nodev,relatime shared:60 - squashfs /dev/loop8 ro,errors=continue,threads=single
+64 30 7:9 / /snap/gtk-common-themes/1535 ro,nodev,relatime shared:62 - squashfs /dev/loop9 ro,errors=continue,threads=single
+92 30 7:11 / /snap/intellij-idea-community/643 ro,nodev,relatime shared:66 - squashfs /dev/loop11 ro,errors=continue,threads=single
+94 30 7:12 / /snap/snap-store/1216 ro,nodev,relatime shared:68 - squashfs /dev/loop12 ro,errors=continue,threads=single
+96 30 7:13 / /snap/snap-store/1270 ro,nodev,relatime shared:70 - squashfs /dev/loop13 ro,errors=continue,threads=single
+100 30 7:15 / /snap/snapd/24792 ro,nodev,relatime shared:74 - squashfs /dev/loop15 ro,errors=continue,threads=single
+102 30 7:16 / /snap/snapd-desktop-integration/315 ro,nodev,relatime shared:76 - squashfs /dev/loop16 ro,errors=continue,threads=single
+106 30 7:18 / /snap/thunderbird/769 ro,nodev,relatime shared:80 - squashfs /dev/loop18 ro,errors=continue,threads=single
+109 30 259:1 / /boot/efi rw,relatime shared:82 - vfat /dev/nvme0n1p1 rw,fmask=0077,dmask=0077,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro
+111 38 0:37 / /proc/sys/fs/binfmt_misc rw,nosuid,nodev,noexec,relatime shared:84 - binfmt_misc binfmt_misc rw
+575 29 0:26 /snapd/ns /run/snapd/ns rw,nosuid,nodev,noexec,relatime - tmpfs tmpfs rw,size=1605384k,mode=755,inode64
+2277 30 7:19 / /snap/core22/2082 ro,nodev,relatime shared:670 - squashfs /dev/loop19 ro,errors=continue,threads=single
+2257 30 7:3 / /snap/snapd/25202 ro,nodev,relatime shared:48 - squashfs /dev/loop3 ro,errors=continue,threads=single
+98 30 7:14 / /snap/firefox/6700 ro,nodev,relatime shared:72 - squashfs /dev/loop14 ro,errors=continue,threads=single
+2898 30 7:5 / /snap/core22/2111 ro,nodev,relatime shared:54 - squashfs /dev/loop5 ro,errors=continue,threads=single
+54 29 0:71 / /run/user/125 rw,nosuid,nodev,relatime shared:52 - tmpfs tmpfs rw,size=1605380k,nr_inodes=401345,mode=700,uid=125,gid=130,inode64
+780 54 0:80 / /run/user/125/doc rw,nosuid,nodev,relatime shared:760 - fuse.portal portal rw,user_id=125,group_id=130
+1333 575 0:4 mnt:[4026532736] /run/snapd/ns/snapd-desktop-integration.mnt rw - nsfs nsfs rw
+1812 575 0:4 mnt:[4026532734] /run/snapd/ns/firmware-updater.mnt rw - nsfs nsfs rw
+3415 575 0:4 mnt:[4026532740] /run/snapd/ns/snap-store.mnt rw - nsfs nsfs rw
+53 30 7:4 / /snap/core24/1055 ro,nodev,relatime shared:33 - squashfs /dev/loop4 ro,errors=continue,threads=single
+86 30 7:20 / /snap/mesa-2404/912 ro,nodev,relatime shared:706 - squashfs /dev/loop20 ro,errors=continue,threads=single
+154 575 0:4 mnt:[4026532741] /run/snapd/ns/mesa-2404.mnt rw - nsfs nsfs rw
+155 30 7:21 / /snap/thunderbird/791 ro,nodev,relatime shared:733 - squashfs /dev/loop21 ro,errors=continue,threads=single
+2060 30 7:22 / /snap/gnome-46-2404/125 ro,nodev,relatime shared:789 - squashfs /dev/loop22 ro,errors=continue,threads=single
+4345 575 0:4 mnt:[4026532742] /run/snapd/ns/thunderbird.mnt rw - nsfs nsfs rw
+104 30 7:17 / /snap/firefox/6738 ro,nodev,relatime shared:78 - squashfs /dev/loop17 ro,errors=continue,threads=single
+3484 575 0:4 mnt:[4026532738] /run/snapd/ns/firefox.mnt rw - nsfs nsfs rw
+4419 30 7:6 / /snap/intellij-idea-community/649 ro,nodev,relatime shared:56 - squashfs /dev/loop6 ro,errors=continue,threads=single
+1054 29 0:106 / /run/user/1000 rw,nosuid,nodev,relatime shared:1182 - tmpfs tmpfs rw,size=1605380k,nr_inodes=401345,mode=700,uid=1000,gid=1000,inode64
+4588 1054 0:107 / /run/user/1000/doc rw,nosuid,nodev,relatime shared:1262 - fuse.portal portal rw,user_id=1000,group_id=1000
+5155 1054 0:108 / /run/user/1000/gvfs rw,nosuid,nodev,relatime shared:1284 - fuse.gvfsd-fuse gvfsd-fuse rw,user_id=1000,group_id=1000
+242 1054 0:104 / /run/user/1000/gnome-remote-desktop/cliprdr-39dRnm rw,nosuid,nodev,relatime shared:1102 - fuse /dev/fuse rw,user_id=1000,group_id=1000

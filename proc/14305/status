@@ -1,0 +1,61 @@
+Name:	anydesk
+Umask:	0000
+State:	S (sleeping)
+Tgid:	14305
+Ngid:	0
+Pid:	14305
+PPid:	1
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	512
+Groups:	 
+NStgid:	14305
+NSpid:	14305
+NSpgid:	14305
+NSsid:	14305
+Kthread:	0
+VmPeak:	  518436 kB
+VmSize:	  469564 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   34240 kB
+VmRSS:	   27360 kB
+RssAnon:	    6400 kB
+RssFile:	   20800 kB
+RssShmem:	     160 kB
+VmData:	   65876 kB
+VmStk:	     132 kB
+VmExe:	   23584 kB
+VmLib:	   20208 kB
+VmPTE:	     264 kB
+VmSwap:	       0 kB
+HugetlbPages:	       0 kB
+CoreDumping:	0
+THP_enabled:	1
+untag_mask:	0xffffffffffffffff
+Threads:	5
+SigQ:	1/62403
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000100014420
+CapInh:	0000000000000000
+CapPrm:	000001ffffffffff
+CapEff:	000001ffffffffff
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Seccomp_filters:	0
+Speculation_Store_Bypass:	thread vulnerable
+SpeculationIndirectBranch:	conditional enabled
+Cpus_allowed:	fffff
+Cpus_allowed_list:	0-19
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	394680
+nonvoluntary_ctxt_switches:	1086
+x86_Thread_features:	
+x86_Thread_features_locked:	
