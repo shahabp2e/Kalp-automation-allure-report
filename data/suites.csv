@@ -1,2 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","28724","New_user_selecting_subscription_plan","KalpStudioConsoleModules.KS_Wallet_Console","Mon Sep 08 12:25:39 IST 2025","passed","Mon Sep 08 12:26:08 IST 2025","KalpStudioConsoleModules.KS_Wallet_Console","Command line test","KalpStudioConsoleModules.KS_Wallet_Console","New_user_selecting_subscription_plan"
+"","28430","New_user_selecting_subscription_plan","KalpStudioConsoleModules.KS_Wallet_Console","Mon Sep 08 12:36:08 IST 2025","passed","Mon Sep 08 12:36:36 IST 2025","KalpStudioConsoleModules.KS_Wallet_Console","Command line test","KalpStudioConsoleModules.KS_Wallet_Console","New_user_selecting_subscription_plan"
